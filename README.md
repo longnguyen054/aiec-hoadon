@@ -96,7 +96,6 @@ Vào tab **Sao lưu** → chọn **Backup đầy đủ** để tạo file ZIP ch
 
 - 🌐 Website: **[hoadon.aiec.vn](https://hoadon.aiec.vn)** — bảng giá chi tiết, đăng ký tài khoản, quản lý license
 - 📧 Email: **support@aiec.vn**
-- 🐛 Báo lỗi / góp ý: [GitHub Issues](https://github.com/longnguyen054/aiec-hoadon/issues)
 
 ---
 
